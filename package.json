@@ -1,0 +1,19 @@
+{
+  "name": "muzaffar-ali01-marksheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "muzaffar-ali01-marksheet": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muzaffar Ali Kalwar",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.3.2"
+  }
+}
